@@ -1,8 +1,11 @@
 <div align="center">
 
-<img src="assets/HomeLabHD-Logo-Captioned.png" width="320" alt="HomeLabHD">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=HomeLab+Helpdesk;Images+%E2%80%A2+Guides+%E2%80%A2+CI+Components;Built+for+Homelabbers%2C+by+Homelabbers" alt="Typing SVG" />
+<p>
+  <img src="assets/HomeLabHD-Logo-Captioned.png" width="320" alt="HomeLabHD">
+</p>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=HomeLab+Helpdesk;Images+%E2%80%A2+Guides+%E2%80%A2+CI+Components;Built+for+Homelabbers%2C+by+Homelabbers" alt="Typing SVG" />
+</p>
 
 [![PrPlanIT GitHub](https://img.shields.io/badge/PrPlanIT-181717?style=flat&logo=github&logoColor=white)](https://github.com/PrPlanIT)
 [![HomeLabHD GitHub](https://img.shields.io/badge/HomeLabHD-181717?style=flat&logo=github&logoColor=white)](https://github.com/HomeLabHD)
