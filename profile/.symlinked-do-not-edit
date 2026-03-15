@@ -1,2 +1,2 @@
-profile/README.md is the source of truth.
-The root README.md is a symlink pointing here.
+This directory's README.md is a symlink to ../README.md (the repo root).
+Edit the root README.md — this file is generated automatically.
